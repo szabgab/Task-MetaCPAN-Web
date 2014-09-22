@@ -1,0 +1,10 @@
+Install all the prerequisites of the MetaCPAN Web front-end
+https://github.com/CPAN-API/metacpan-web
+
+Normally you should go with the instructions provided by the MetaCPAN authors
+and use the cpanfile included in the https://github.com/CPAN-API/metacpan-web
+but some people might like to live on the bleeding edge.
+
+The cpanfile included in this distribution should be a copy of the file
+located in https://github.com/CPAN-API/metacpan-web
+
